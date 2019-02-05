@@ -1,3 +1,5 @@
-# Welcome to my blog
+# Pages Help
 
-I'm glad you are here. I plan to talk about ...
+Sample
+
+>This site was built using [GitHub Pages](https://pages.github.com/).
